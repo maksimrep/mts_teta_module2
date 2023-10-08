@@ -1,0 +1,5 @@
+api:
+  image:
+    repository: ghcr.io/ldest/sre-course/api
+    tag: latest
+  migrationScript: init_db.sql 
